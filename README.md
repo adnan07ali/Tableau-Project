@@ -1,3 +1,6 @@
+
+## This project was developed using Tableau Public, focusing more on content than visual aesthetics. However, it delivers all essential details crucial for understanding.
+
 # Tableau-Project
 Tableau Project on British Airways Reviews
 
